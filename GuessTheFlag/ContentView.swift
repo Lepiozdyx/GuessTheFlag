@@ -111,7 +111,6 @@ struct ContentView: View {
         questionCount = 0
         askQuestion()
     }
-
 }
 
 #Preview {
